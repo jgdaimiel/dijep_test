@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dijep_test</string>
+    <string name="action_settings">Settings</string>
+    <string name="countryNoSelected">No Country Selected</string>
+</resources>
